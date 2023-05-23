@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "sourceMap": true,
+    "lib": ["DOM","ES2016"],
+    "module": "ESNext",
+    "target": "ES5",
+    "moduleResolution": "node",
+    "strict": true,
+    "removeComments": true,
+    "noImplicitAny": true,
+    "allowJs": true,
+    "esModuleInterop": true,
+    "isolatedModules": true,
+  },
+  "include": ["./src"]
+}
